@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3T1oSFLqvJEU6l2aB6NHYYLq9jq2+wwV2L2Ha9Ik4wJ3M9OEp+5eo4jnuTQuRCmyNDTtVbHU5dP+Htlm+132Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mimi\\Documents\\GitHub\\MakeUpBakery\\MakeUpBakery\\Data\\MakeUpBakery.Data.Common\\MakeUpBakery.Data.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mimi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\Mimi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\Mimi\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

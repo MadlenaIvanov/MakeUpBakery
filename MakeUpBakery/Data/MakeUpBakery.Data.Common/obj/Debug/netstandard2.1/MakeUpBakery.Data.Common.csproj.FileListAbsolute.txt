@@ -1,0 +1,10 @@
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Data\MakeUpBakery.Data.Common\bin\Debug\netstandard2.1\MakeUpBakery.Data.Common.deps.json
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Data\MakeUpBakery.Data.Common\bin\Debug\netstandard2.1\MakeUpBakery.Data.Common.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Data\MakeUpBakery.Data.Common\bin\Debug\netstandard2.1\MakeUpBakery.Data.Common.pdb
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Data\MakeUpBakery.Data.Common\obj\Debug\netstandard2.1\MakeUpBakery.Data.Common.csproj.AssemblyReference.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Data\MakeUpBakery.Data.Common\obj\Debug\netstandard2.1\MakeUpBakery.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Data\MakeUpBakery.Data.Common\obj\Debug\netstandard2.1\MakeUpBakery.Data.Common.AssemblyInfoInputs.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Data\MakeUpBakery.Data.Common\obj\Debug\netstandard2.1\MakeUpBakery.Data.Common.AssemblyInfo.cs
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Data\MakeUpBakery.Data.Common\obj\Debug\netstandard2.1\MakeUpBakery.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Data\MakeUpBakery.Data.Common\obj\Debug\netstandard2.1\MakeUpBakery.Data.Common.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Data\MakeUpBakery.Data.Common\obj\Debug\netstandard2.1\MakeUpBakery.Data.Common.pdb

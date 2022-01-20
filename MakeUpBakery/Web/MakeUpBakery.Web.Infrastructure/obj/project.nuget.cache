@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Rx8KVrEVVzJURgFQ7/HGQs7A0sd6abcQU0s7i2PPaapHwm3z3ASY2QioqqD69a4bm410DV+GnDGLQUPhiF+qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mimi\\Documents\\GitHub\\MakeUpBakery\\MakeUpBakery\\Web\\MakeUpBakery.Web.Infrastructure\\MakeUpBakery.Web.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mimi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\Mimi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

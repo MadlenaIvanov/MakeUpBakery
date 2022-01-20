@@ -1,0 +1,17 @@
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\bin\Debug\netstandard2.1\MakeUpBakery.Services.Data.deps.json
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\bin\Debug\netstandard2.1\MakeUpBakery.Services.Data.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\bin\Debug\netstandard2.1\MakeUpBakery.Services.Data.pdb
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\bin\Debug\netstandard2.1\MakeUpBakery.Data.Common.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\bin\Debug\netstandard2.1\MakeUpBakery.Data.Models.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\bin\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\bin\Debug\netstandard2.1\MakeUpBakery.Data.Common.pdb
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\bin\Debug\netstandard2.1\MakeUpBakery.Data.Models.pdb
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\bin\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.pdb
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\obj\Debug\netstandard2.1\MakeUpBakery.Services.Data.csproj.AssemblyReference.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\obj\Debug\netstandard2.1\MakeUpBakery.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\obj\Debug\netstandard2.1\MakeUpBakery.Services.Data.AssemblyInfoInputs.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\obj\Debug\netstandard2.1\MakeUpBakery.Services.Data.AssemblyInfo.cs
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\obj\Debug\netstandard2.1\MakeUpBakery.Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\obj\Debug\netstandard2.1\MakeUpBakery.Services.Data.csproj.CopyComplete
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\obj\Debug\netstandard2.1\MakeUpBakery.Services.Data.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Data\obj\Debug\netstandard2.1\MakeUpBakery.Services.Data.pdb

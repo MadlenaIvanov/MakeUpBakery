@@ -1,0 +1,10 @@
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Mapping\bin\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.deps.json
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Mapping\bin\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Mapping\bin\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.pdb
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Mapping\obj\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.csproj.AssemblyReference.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Mapping\obj\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Mapping\obj\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Mapping\obj\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.AssemblyInfo.cs
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Mapping\obj\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Mapping\obj\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Services\MakeUpBakery.Services.Mapping\obj\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.pdb

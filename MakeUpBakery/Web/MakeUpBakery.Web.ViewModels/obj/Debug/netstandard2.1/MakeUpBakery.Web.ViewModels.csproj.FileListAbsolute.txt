@@ -1,0 +1,17 @@
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\bin\Debug\netstandard2.1\MakeUpBakery.Web.ViewModels.deps.json
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\bin\Debug\netstandard2.1\MakeUpBakery.Web.ViewModels.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\bin\Debug\netstandard2.1\MakeUpBakery.Web.ViewModels.pdb
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\bin\Debug\netstandard2.1\MakeUpBakery.Data.Common.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\bin\Debug\netstandard2.1\MakeUpBakery.Data.Models.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\bin\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\bin\Debug\netstandard2.1\MakeUpBakery.Data.Models.pdb
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\bin\Debug\netstandard2.1\MakeUpBakery.Services.Mapping.pdb
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\bin\Debug\netstandard2.1\MakeUpBakery.Data.Common.pdb
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\obj\Debug\netstandard2.1\MakeUpBakery.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\obj\Debug\netstandard2.1\MakeUpBakery.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\obj\Debug\netstandard2.1\MakeUpBakery.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\obj\Debug\netstandard2.1\MakeUpBakery.Web.ViewModels.AssemblyInfo.cs
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\obj\Debug\netstandard2.1\MakeUpBakery.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\obj\Debug\netstandard2.1\MakeUpBakery.Web.ViewModels.csproj.CopyComplete
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\obj\Debug\netstandard2.1\MakeUpBakery.Web.ViewModels.dll
+C:\Users\Mimi\Documents\GitHub\MakeUpBakery\MakeUpBakery\Web\MakeUpBakery.Web.ViewModels\obj\Debug\netstandard2.1\MakeUpBakery.Web.ViewModels.pdb
